@@ -54,8 +54,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DashboardChannelItem.cs" />
     <Compile Include="DashboardItem.cs" />
+    <Compile Include="DashboardSaleChannelItem.cs" />
     <Compile Include="DashboardService.cs" />
+    <Compile Include="DashboardTotalSalesItem.cs" />
     <Compile Include="DataLogic.cs" />
     <Compile Include="SQLQueryHelper.cs" />
     <Compile Include="UnitTest1.cs" />
